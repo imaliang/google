@@ -4,7 +4,7 @@
 
 ## Quick start
 
-Chinese Notice: 如果无法查看此文档中的图片,请下载次项目后在自己电脑查看此 README.md
+Chinese Notice: 如果无法查看此文档中的图片,请下载次项目后在自己电脑查看此 README.md.
 
 1、Fork this repository
 
